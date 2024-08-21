@@ -13,6 +13,11 @@ body{
 
 a {
     text-decoration: none;
+    transition: .3s;
+}
+
+a:hover {
+  opacity: .6;
 }
 
 ul {
